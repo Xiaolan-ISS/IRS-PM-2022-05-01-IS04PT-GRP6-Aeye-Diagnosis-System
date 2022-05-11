@@ -1,5 +1,5 @@
 # IRS-PM-2022-05-01-IS04PT-GRP6-Aeye-Diagnosis-System
-## SECTION 1 : AEYE Diagnosis System
+## SECTION 1 : PROJECT TITLE
 ## An Eye diagnosis and triaging system (A-EYE)
 
 <img src="README/coverpic.png"
@@ -85,14 +85,34 @@ An important tenet of healthcare is in obtaining the correct diagnosis for a pat
 ## SECTION 6 : PROJECT REPORT / PAPER
 
 `Refer to project report at Github Folder: ProjectReport`
-
+- Executive Summary
+- Problem description
+- Problem Objective
+- Knowledge Modelling
+- Solution
+- System Feature
+- Feedback and future plans
+- Limitation
+- Improvement
+- Conclusion
+- References
+- Appendix of report: Project Proposal
+- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses
+- Appendix of report: Installation and User Guide
+- Appendix of report: Individual project report by project members
+- Appendix of report: Flow Graphs
 
 ---
+## SECTION 7 : MISCELLANEOUS
+`Refer to Github Folder: Miscellaneous`
 
+### A-EYE Project Schedule.xlsx
+* Project planning and schedule
+
+### A-EYE UI design Draft.xlsx
+* UI design
+
+---
 ### <<<<<<<<<<<<<<<<<<<< End of Template >>>>>>>>>>>>>>>>>>>>
 
 ---
-
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
-
-**Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**

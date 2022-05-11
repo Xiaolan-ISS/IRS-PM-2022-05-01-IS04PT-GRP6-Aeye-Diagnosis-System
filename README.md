@@ -1,4 +1,4 @@
-# IRS-PM-2022-05-01-IS04PT-GRP6-Aeye-Diagnosis-System
+# IRS-PM-2022-05-01-IS04PT-GRP6-AEYE-Diagnosis-System
 ## SECTION 1 : PROJECT TITLE
 ## An Eye diagnosis and triaging system (A-EYE)
 
